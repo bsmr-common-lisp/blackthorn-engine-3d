@@ -1,3 +1,6 @@
+**Please note:** Blackthorn 3D is no longer under active development,
+and the code is mostly of historical interest only.
+
 Blackthorn 3D is a game engine written in Common Lisp.
 [Check out the wiki for more information](https://bitbucket.org/elliottslaughter/blackthorn-engine-3d/wiki).
 
